@@ -1,0 +1,17 @@
+# Introduction {.unnumbered}
+
+This assignment covers Astral Projection's  group project work during their Big Data Management lecture.
+
+Each section is an assignment or an individual work.
+
+<!-- IF THIS IS A GROUP UNCOMMENT BELOW -->
+
+<!-- # Group Members
+
++ [Member 1](Member 1's Progress Journal URL with https://)  
++ [Member 2](Member 2's Progress Journal URL with https://)
++ [Member 3](Member 3's Progress Journal URL with https://)
+
+# Group Project Details
+
+Our group project is [PROJECT NAME]. [SHORT DESCRIPTION] -->
